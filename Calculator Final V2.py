@@ -1,6 +1,6 @@
 while True: 
-    operation=input('Pick an operation: [+] [-] [x] [/] [quit] ')
-    operation=operation.lower()
+    operation=input('Pick an operation: [+] [-] [x] [/] [quit] ').lower
+    
     if operation == 'quit':                                       
         break                                                     
     elif operation not in ('+','-','x','/'):                     
