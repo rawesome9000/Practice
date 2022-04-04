@@ -20,8 +20,11 @@ while True:
         print(number1 - number2)
     elif operation == 'x':
         print(number1 * number2)
-    elif operation == '/':
-        print(number1 / number2)
+    elif operation == '/':                                                       #I used a try and except block to handle scenarios where a user divides by 0
+        try:
+            print(number1 / number2)
+        except:
+            print('Undefined')
    
         
 print('Quitting')
