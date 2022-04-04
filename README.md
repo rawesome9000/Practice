@@ -5,10 +5,11 @@ This was the very first script I wrote using Python, which was an application of
 looping, assigning, operations, conditional statements...
 
 Simple looping calculator where you could calculate two numbers to do operations, until you type 'quit'.
-It's also error-proof, at least I tried to make it handle errors correctly as much as possible
+It's also error-proof, at least I tried to make it handle errors correctly as much as possible. 
+I tried breaking this script as much as possible, until I could no longer break it :)
 
 
-I'v gone through a lot of different versions of this project, but this is the simplest that I could grind this down to.
+I've also gone through a lot of different versions of this project, but this is the simplest that I could grind this down to.
 I've seen a lot of codes online doing the same thing, not sure how mine stacks up to them,
 but I found most of them to be unnecesarily complicated: some are defining functions and some are creating unnecesarry variables...
 
