@@ -1,5 +1,5 @@
 while True: 
-    operation=input('Pick an operation: [+] [-] [x] [/] [quit]')
+    operation=input('Pick an operation: [+] [-] [x] [/] [quit] ')
     operation=operation.lower()
     if operation == 'quit':                                       
         break                                                     
