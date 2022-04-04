@@ -5,7 +5,7 @@ This was the very first script I wrote using Python, which was an application of
 looping, assigning, operations, conditional statements...
 
 Simple looping calculator where you could calculate two numbers to do operations, until you type 'quit'.
-
+It's also error-proof, at least I tried to make it handle errors correctly as much as possible
 
 
 I'v gone through a lot of different versions of this project, but this is the simplest that I could grind this down to.
