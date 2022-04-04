@@ -1,5 +1,5 @@
 while True: 
-    operation=input('Pick an operation: [+] [-] [x] [/] ')        #part of the code where you choose the operation
+    operation=input('Pick an operation: [+] [-] [x] [/] [quit] ')        #part of the code where you choose the operation
     operation=operation.lower()
     if operation == 'quit':                                       #does what it says, if 'quit' is typed, it breaks the loop, and goes to the next code outside the loop
         break                                                     #I could make this simpler, such as not 
