@@ -28,4 +28,7 @@ I also don't know if I did right in terms of memory management and speed. Not su
 I kinda wanna practice on these aspects, even if it's not needed at all in such simple scripts.
 Also do not know if this is the "pythonic way of doing things", but, I tried to make it as simple and as efficient as possible :)
 
+LIMITATIONS:
+This code has one severe limitation. It can only input two numbers. I'm still thinking of a way to make the calculator have infinite inputs
+
 
