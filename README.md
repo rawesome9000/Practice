@@ -11,7 +11,7 @@ I tried breaking this script as much as possible, until I could no longer break 
 
 I've also gone through a lot of different versions of this project, but this is the simplest that I could grind this down to.
 I've seen a lot of codes online doing the same thing, not sure how mine stacks up to them,
-but I found most of them to be unnecesarily complicated: some are defining functions and some are creating unnecesarry variables...
+but I found most of them to be unnecesarily complicated.
 
 Anyway...
 
