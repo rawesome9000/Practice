@@ -21,15 +21,14 @@ no matter how large a fraction is, it can always be simplified until it cannot b
 
 Would've been awesome if I could upload all the previous versions of this, so that one can see how I simplified it down to this...
 but I'm new to github and I don't know how to do that, perhaps some other time. 
-(Also I'm not sure if this is even the correct place to be ranting all these stuff... but I don't care about formalities (except when its coding time :^),
-I just want to put a location for all my codes... so sorry if I'm a bit green)
 
 Now of course this code isn't perfect. I could have probably done something more to simplify this, maybe you have some ideas? 
-I also don't know if I did right in terms of memory management and speed. Not sure if there's a faster way, as I understand simpler doesn't always mean faster.
-I kinda wanna practice on these aspects, even if it's not needed at all in such simple scripts.
-Also do not know if this is the "pythonic way of doing things", but, I tried to make it as simple and as efficient as possible :)
 
 LIMITATIONS:
-This code has one severe limitation. It can only input two numbers. I'm still thinking of a way to make the calculator have infinite inputs
+This code has one severe limitation. It can only input two numbers. I'm still thinking of a way to make the calculator have infinite inputs.
 
+DIFFERENCES BETWEEN v2 and v3:
+Not much difference between v2 and v3, except that v3 is probably the 'better' way of doing this. 
+I made use of defining functions on v3 not just to test the things I've learned, but also because I think it's more 'scalable' and cleaner this way.
+I could just define another function if, say, I wanted to expand into other mathematical operations
 
